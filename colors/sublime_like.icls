@@ -1099,6 +1099,24 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="JADE_FILE_PATH">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="JADE_JS_BLOCK">
+      <value>
+        <option name="FOREGROUND" value="6900c6" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="JADE_STATEMENTS">
+      <value>
+        <option name="FOREGROUND" value="803d12" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="JAVA_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="5f5a60" />
@@ -1987,42 +2005,6 @@
     <option name="SLIM_TAG_ATTR_KEY">
       <value>
         <option name="FOREGROUND" value="9b703f" />
-        <option name="EFFECT_TYPE" value="0" />
-      </value>
-    </option>
-    <option name="SPY-JS.EXCEPTION">
-      <value>
-        <option name="BACKGROUND" value="ffcccc" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="SPY-JS.FUNCTION_SCOPE">
-      <value>
-        <option name="BACKGROUND" value="ffffd7" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="SPY-JS.PATH_LEVEL_ONE">
-      <value>
-        <option name="BACKGROUND" value="e2ffe2" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="SPY-JS.PATH_LEVEL_TWO">
-      <value>
-        <option name="EFFECT_COLOR" value="0" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="SPY-JS.PROGRAM_SCOPE">
-      <value>
-        <option name="BACKGROUND" value="ffffd7" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="SPY-JS.VALUE_HINT">
-      <value>
-        <option name="EFFECT_COLOR" value="a9a9a9" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>

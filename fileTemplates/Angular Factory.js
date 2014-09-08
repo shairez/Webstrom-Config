@@ -1,5 +1,5 @@
 angular.module("${ModuleName}")
-.factory("${Name}", [function(){
+.factory("${ModuleName}.${Name}", [function(){
 
     return {
     

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Diff.FocusOppositePane">
+    <keyboard-shortcut first-keystroke="shift control alt 1" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+  </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift control alt 2" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="shift control alt 1" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift alt 2" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
+  <action id="org.jetbrains.plugins.terminal.OpenLocalTerminalAction">
+    <keyboard-shortcut first-keystroke="shift control alt 3" />
+  </action>
+</keymap>
+
