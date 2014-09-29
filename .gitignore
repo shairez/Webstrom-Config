@@ -3,6 +3,7 @@
 !/codestyles/
 !/colors/
 !/fileTemplates/
-!/templates/
+!/templates/user.xml
+!/templates/JavaScript.xml
 !/keymaps
 !/.gitignore
